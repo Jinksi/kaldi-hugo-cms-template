@@ -40,7 +40,7 @@ intro:
         sale. The full price you pay goes to the artist.
     - image: /img/unsplash2.jpg
       text: asdfasdfasdfasdfasdf
-  heading: What we offer
+  heading: asdf
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
@@ -101,5 +101,6 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
 
